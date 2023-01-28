@@ -1,4 +1,4 @@
 # GitubCOmmands
 
 All changes Revert 
-git reset --hard <id>
+git reset --hard id
