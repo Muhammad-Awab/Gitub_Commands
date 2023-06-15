@@ -9,3 +9,4 @@ also merge previous commit
 # git revert 
  makes a new commit which effectively rolls back a previous commit. It’s a bit like an undo command.
 # git revert Head
+simply undo changes
