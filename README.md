@@ -10,3 +10,5 @@ also merge previous commit
  makes a new commit which effectively rolls back a previous commit. It’s a bit like an undo command.
 # git revert Head
 simply undo changes
+# git log --graph --oneline
+show beautiful logs and previous commits 
