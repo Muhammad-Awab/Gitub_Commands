@@ -12,3 +12,4 @@ also merge previous commit
 simply undo changes
 # git log --graph --oneline
 show beautiful logs and previous commits 
+# git log --graph --oneline --all
